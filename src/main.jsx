@@ -7,7 +7,7 @@ import { KeyboardProvider } from "./context/KeyboardProvider.jsx";
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <KeyboardProvider>
-      <App />
+        <App />
     </KeyboardProvider>
   </StrictMode>,
 )
