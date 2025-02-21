@@ -74,6 +74,9 @@ export const InputText = ({
       case "{tab}":
         newValue = preInputValue;
         break;
+      case "{enter}":
+        newValue = preInputValue;
+        break;
       default:
         setEntryErrorMessage(null);
         newValue = preInputValue + keyValue;
@@ -86,7 +89,7 @@ export const InputText = ({
     if (required && inputValue.length === 0) {
       setInputValueError("Filed is required");
     } else if (isEmail && !isEmailFormat(inputValue)) {
-      setInputValueError("E-mail is not valid");
+      setInputValueError("E-mail is not valid, can contain '@', '_', '.', and phanumeric characters");
     } else {
       setInputValueError("");
     }

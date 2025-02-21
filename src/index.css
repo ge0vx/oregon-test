@@ -83,7 +83,7 @@ body {
 }
 
 .input-text-feedback {
-  height: 2em;
+  height: 3em;
   display: flex;
   align-items: center;
 }
