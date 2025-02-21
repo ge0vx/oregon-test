@@ -5,8 +5,8 @@ https://ge0vx.github.io/oregan-test
 
 ### Run locally and Answer to Question 1:
 
-[Run it in local enviroment here](#run)
-[See answer to question 1](#question)
+- [Run it in local enviroment here](#run)
+- [See answer to question 1](#question)
 
 ## Video Result (if not deployed yet) :
 
