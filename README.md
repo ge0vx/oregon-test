@@ -3,7 +3,7 @@
 ## Project deployed here:
 https://ge0vx.github.io/oregan-test
 
-[Also you can run it in local enviroment here](#Run)
+[Also you can run it in local enviroment here](#run)
 
 ## Video Result (if not deployed yet) :
 
@@ -38,7 +38,7 @@ Password time indicator:
 
 - I added a visual indicator of the remaining time the user has to see the password in plain text.
 
-## Run in Local Environment
+## Run in Local Environment <a id='run'></a>
 
 ### 0. Pre-Requisites
 
