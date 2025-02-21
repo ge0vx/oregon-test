@@ -1,5 +1,8 @@
 # Oregan Test
 
+## Project Deployed here:
+https://ge0vx.github.io/oregan-test
+
 ## Video Result:
 
 https://github.com/user-attachments/assets/9a610c53-7430-4e0c-96fb-d44258c7983b
