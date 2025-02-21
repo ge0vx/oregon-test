@@ -3,13 +3,16 @@
 ## Project deployed here:
 https://ge0vx.github.io/oregan-test
 
-[Also you can run it in local enviroment here](#run)
+### Run locally and Answer to Question 1:
+
+[Run it in local enviroment here](#run)
+[See answer to question 1](#question)
 
 ## Video Result (if not deployed yet) :
 
 https://github.com/user-attachments/assets/9a610c53-7430-4e0c-96fb-d44258c7983b
 
-## Question 1:
+## Question 1: <a id='question'></a>
 >Can you provide additional design considerations for the UI Input component based on the Login Page Design provided that are not mentioned/listed above?
 
 ### Response
