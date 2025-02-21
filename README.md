@@ -3,6 +3,8 @@
 ## Project deployed here:
 https://ge0vx.github.io/oregan-test
 
+[Also you can run it in local enviroment here](#Run)
+
 ## Video Result (if not deployed yet) :
 
 https://github.com/user-attachments/assets/9a610c53-7430-4e0c-96fb-d44258c7983b
